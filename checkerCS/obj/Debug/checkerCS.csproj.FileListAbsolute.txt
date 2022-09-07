@@ -1,0 +1,10 @@
+C:\Users\Matt\source\repos\checkerCS\checkerCS\bin\Debug\checkerCS.exe.config
+C:\Users\Matt\source\repos\checkerCS\checkerCS\bin\Debug\checkerCS.exe
+C:\Users\Matt\source\repos\checkerCS\checkerCS\bin\Debug\checkerCS.pdb
+C:\Users\Matt\source\repos\checkerCS\checkerCS\obj\Debug\checkerCS.csprojAssemblyReference.cache
+C:\Users\Matt\source\repos\checkerCS\checkerCS\obj\Debug\checkerCS.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\checkerCS\checkerCS\obj\Debug\checkerCS.exe
+C:\Users\Matt\source\repos\checkerCS\checkerCS\obj\Debug\checkerCS.pdb
+C:\Users\Matt\source\repos\checkerCS\checkerCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matt\source\repos\checkerCS\checkerCS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matt\source\repos\checkerCS\checkerCS\obj\Debug\checkerCS.csproj.CopyComplete
