@@ -316,7 +316,7 @@ namespace checkerCS
 		{
 			string connetionString;
 			MySqlConnection con;
-			connetionString = @"Server=sql11.freesqldatabase.com,3306;Database=sql11415884;User Id=sql11415884;Password=8rHLcUITMS;";
+			connetionString = @"Server=sql11.freesqldatabase.com,3306;Database=XXX;User Id=XXX;Password=XXX;";
 			print("@5Attempting to connect to SQL...\n");
 			con = new MySqlConnection(connetionString);
 			try
